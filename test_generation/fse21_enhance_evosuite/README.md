@@ -23,6 +23,7 @@ This study focuses on improving SBST(search-based software testing) by creating 
     - edge: dataflow relation
 
 ![error](fig_4.png)
+
 - Graph-based Template Synthesis and Seaerch Valuation:
     - Based on Object Construction Graph, we can construct a test seed template where eah node in the graph corresponds to a statement in the test template.
 
@@ -38,6 +39,7 @@ This study focuses on improving SBST(search-based software testing) by creating 
 ### 2. Graph-Based Test Code Synthesis
 2.1 Code Skeleton Synthesis
 ![error](alg_1.png)
+
 2.2 Code Element Synthesis
 ### 3. Integration to SBST
 
