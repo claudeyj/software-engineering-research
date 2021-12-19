@@ -14,7 +14,7 @@ Creating input objects (most mainsteam random test generators): use method seque
 
 *Eclat* and *Randoop*: perform feedback-directed random test generation to incrementally construct complex objects from primitive types, in a bottom-up style.
 
-*MSeqGen"* mine client code bases to extract frequently used sequence patterns to assist test generation.
+*MSeqGen* mine client code bases to extract frequently used sequence patterns to assist test generation.
 
 *OCAT*: capture input object states by running developer-written test cases, and directly using these objects as input for random test generation.
 
